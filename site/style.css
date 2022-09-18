@@ -1,5 +1,18 @@
 body {
     font-family: arial;
+    font-size: 10vw;
+    margin: 0;
+}
+
+.hey-woo {
+    width: 100vw;
+    height: 100vh;
+}
+
+.hey-woo p {
+    margin: 0;
+    text-align: center;
+    padding-top: 40vh;
 }
 
 .black {
