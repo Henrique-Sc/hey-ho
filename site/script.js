@@ -1,5 +1,5 @@
 function time() {
-    setInterval(x(), 1000);
+    setInterval(x, 1250);
 
 }
 
@@ -9,7 +9,7 @@ var x = () => {
     if (body.classList == 'white') {
         body.classList = 'black'
         p.classList = 'black'
-        p.innerHTML = 'WOOOOOOO'
+        p.innerHTML = 'HOOOOOOO'
     } else {
         body.classList = 'white'
         p.classList = 'white'
